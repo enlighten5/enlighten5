@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a 4-th year PhD candidate at UCR, working with Prof. [Heng Yin](https://www.cs.ucr.edu/~heng/).
+
+I worked on dynamic program analysis approaches ([DECAF++/RAID'19](https://www.cs.ucr.edu/~heng/pubs/DECAF++.pdf), [SpecTaint/NDSS'21](https://www.cs.ucr.edu/~heng/pubs/SpecTaint.pdf)) based on whole-system emulation to enable vulnerability/gadget detection in real-world programs. 
+
+Currently, I am working on utilizing logic inference and deep learning to solve security-related programs. 
+
+I am doing an internship at [DeepBits](https://www.deepbitstech.com/) and developing services to monitor and protect cloud VMs based on memory analysis. Before that, I was a research intern at [Google Cloud](https://cloud.google.com/) team wokring on kernel memory analysis to protect Google Cloud VMs.
